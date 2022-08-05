@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(整理.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MainLoop.cpp
+  MediaPlay_bkMusic.cpp
+  theService.cpp
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theService.cpp(231,24): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theService.cpp(234,29): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theService.cpp(401,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theService.cpp(440,24): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theService.cpp(443,29): warning C4018: “>”: 有符号/无符号不匹配
+  theview.cpp
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\theview.cpp(318,10): warning C4102: “defualt”: 未引用的标签
+  VideoPlay.cpp
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\VideoPlay.cpp(23,8): warning C4244: “参数”: 从“libvlc_time_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\MediaPlay_bkMusic.cpp(42): warning C4715: “MediaPlay_bkMusic”: 不是所有的控件路径都返回值
+  Game.vcxproj -> C:\Users\XD\Desktop\模拟资本家 (2)\模拟资本家\x64\Debug\满汉全席大富翁.exe
